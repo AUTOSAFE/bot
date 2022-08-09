@@ -1,1 +1,2 @@
-Zefoy bot in golang 70% finished (faster)  
+I FROM ID 🇮🇩
+YOU LIKE MY BOT TIKTOK
