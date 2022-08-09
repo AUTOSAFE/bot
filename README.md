@@ -2,7 +2,7 @@
 #### 50€ 1k/s
 
 
-<h2 align="center">server: <a href="https://discord.gg/xtwitch">discord.gg/xtwich</a></h2>
+<h2 align="center">server: <a href="https://discord.gg/eskey">discord.gg/eskey</a></h2>
 
 <p align="center">
 400 followers / 500 stars = leaked unpatched viewbot 1k/s
